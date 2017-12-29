@@ -39,7 +39,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Alexander Works - home",
         "meta_descr": "Home",
         "header_custom": "",
         "footer_custom": "",
@@ -653,7 +653,7 @@
     },
     "profile.html": {
       "settings": {
-        "title": "Profile",
+        "title": "Alexander Works - profile",
         "meta_descr": "Profile",
         "header_custom": "",
         "footer_custom": "",
